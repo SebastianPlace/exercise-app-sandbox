@@ -15,7 +15,7 @@ const App = () => (
   </div>
 );
 
-const multiply = (a, b) => {
+export const multiply = (a, b) => {
   return a * b;
 };
 
